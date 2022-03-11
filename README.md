@@ -3,4 +3,4 @@ my first repository
 
 Edited file. TeSt. 
 
-Auf Wiedersehen. 
+Auf Wiedersehen! 
